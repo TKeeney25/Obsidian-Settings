@@ -1,0 +1,29 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Yeast": "text",
+    "Hops": "multitext",
+    "Malt": "multitext",
+    "Brew Date": "datetime",
+    "Secondary Date": "datetime",
+    "ABV": "number",
+    "Bottling Date": "datetime",
+    "Taste Date": "datetime",
+    "Adjuncts": "multitext",
+    "Weight": "number",
+    "Protein": "number",
+    "Fat": "number",
+    "Carb": "number",
+    "Servings": "number",
+    "Calories": "number",
+    "Target Fat": "number",
+    "Target Protein": "number",
+    "Target Carbs": "number",
+    "Target Calories": "number",
+    "Breakfast": "multitext",
+    "Lunch": "multitext",
+    "Dinner": "multitext"
+  }
+}

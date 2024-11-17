@@ -1,0 +1,348 @@
+{
+  "main": {
+    "id": "e5463ab57074df02",
+    "type": "split",
+    "children": [
+      {
+        "id": "f385461851fe3928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3b4ab8cbd5b4a9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft Strategy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft Strategy"
+            }
+          },
+          {
+            "id": "5731c8be348d0c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Spanish.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Spanish"
+            }
+          },
+          {
+            "id": "c33154fecfa99aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meal Prep/Main Dishes/Chilli.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chilli"
+            }
+          },
+          {
+            "id": "52ec4d6c030e96d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brewing/09-02-24 Belgian Saison.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-02-24 Belgian Saison"
+            }
+          },
+          {
+            "id": "80f4e2f0471f27f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meal Prep/Weekly Logs/2024-09-22.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-09-22"
+            }
+          },
+          {
+            "id": "5f9abbd4124a92db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meal Prep/Weekly Logs/2024-10-06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-06"
+            }
+          },
+          {
+            "id": "f05987a580e09d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meal Prep/Main Dishes/Beef Burrito Salad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beef Burrito Salad"
+            }
+          },
+          {
+            "id": "ef2980a31bfc5638",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "345a4d77e7379390",
+    "type": "split",
+    "children": [
+      {
+        "id": "3957101a59eb4119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c324747801039e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24bf2314c9b59184",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f708855e5e453941",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "93d946b3f413ee4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "33f39d72e4544b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00ed04dec6408003",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04712b36d4875d14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Draft Strategy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Draft Strategy"
+            }
+          },
+          {
+            "id": "3be07c917fd4e0d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Draft Strategy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Draft Strategy"
+            }
+          },
+          {
+            "id": "a5b6300c9ea4f7ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "adee96b681d32131",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ea2d672b863e97d4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "1e5b1f519ca9bd39",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "1e5b1f519ca9bd39",
+  "lastOpenFiles": [
+    "Meal Prep/Main Dishes/Pasta Salad.md",
+    "Meal Prep/Main Dishes/Pork Chops and Potatoes.md",
+    "Meal Prep/Main Dishes/Sausage, Peppers, and Onions.md",
+    "Politics/Election Access.md",
+    "Meal Prep/Main Dishes/Breakfast Casserole.md",
+    "Politics",
+    "Meal Prep/Main Dishes/Chilli.md",
+    "Meal Prep/Main Dishes/Homemade Hamburger Helper.md",
+    "Brewing/08-14-24 Dry Mead.md",
+    "Meal Prep/Spice Mixes/Taco Seasoning.md",
+    "Meal Prep/Main Dishes/Beef Burrito Salad.md",
+    "Meal Prep/Weekly Logs/2024-10-20.md",
+    "Meal Prep/Main Dishes/Beef Stroganoff.md",
+    "Meal Prep/Weekly Logs/2024-10-06.md",
+    "Meal Prep/Main Dishes/Chef John Chicken Tikka Masala.md",
+    "Meal Prep/Main Dishes/Chicken Gyros.md",
+    "Meal Prep/Main Dishes/Chicken Salad.md",
+    "Meal Prep/Meal Prep.md",
+    "Meal Prep/Main Dishes/Chicken Tikka Masala.md",
+    "Meal Prep/Main Dishes/Korean Beef and Rice.md",
+    "Brewing/09-02-24 Belgian Saison.md",
+    "Meal Prep/Side Dishes/Untitled.md",
+    "Meal Prep/Weekly Logs/2024-09-22.md",
+    "Meal Prep/Weekly Logs/2024-08-18.md",
+    "[Tradition.md",
+    "Brewing/Brewing.md",
+    "Meal Prep/Main Dishes/TODO.md",
+    "Meal Prep/Spice Mixes",
+    "Projects/Workout App",
+    "Projects",
+    "Meal Prep/Side Dishes",
+    "Meal Prep/Main Dishes",
+    "Meal Prep/Weekly Logs",
+    "Meal Prep",
+    "Templates",
+    "Brewing",
+    "Pasted image 20240402143855.png",
+    "Pasted image 20240312124339.png",
+    "Pasted image 20240312124241.png",
+    "Diagrams/Diagram.svg",
+    "Diagrams/Diagram 1.svg",
+    "Diagrams/Pasted image 20240213192950.png",
+    "Archive/Diagrams/Diagram.svg",
+    "Untitled.canvas"
+  ]
+}
